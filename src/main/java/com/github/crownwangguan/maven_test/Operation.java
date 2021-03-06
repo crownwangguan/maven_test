@@ -1,4 +1,4 @@
-package com.github.crownwangguan.arithmetic;
+package com.github.crownwangguan.maven_test;
 
 import java.math.BigDecimal;
 
